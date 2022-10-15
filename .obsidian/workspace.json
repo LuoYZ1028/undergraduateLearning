@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "95d40e68f60d15a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce8f1b56b415801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bc7fa1ee29d690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faster-RCNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29cdc15352771757",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d8240368c9373af",
+        "type": "tabs",
+        "dimension": 58.79629629629628,
+        "children": [
+          {
+            "id": "0dd8b10f21b52305",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18ec9b5df1c3a055",
+        "type": "tabs",
+        "dimension": 41.20370370370372,
+        "children": [
+          {
+            "id": "b255247e6d4b2b5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b2040d7b65aaf40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "27433f396554b909",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b92eb969bac3c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff2b8275c4d05a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faster-RCNN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4fbedb8d83c82d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faster-RCNN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4554844ed4fcaa3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57c2c62a50a88cdf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "57c2c62a50a88cdf",
+  "lastOpenFiles": [
+    "Pomodoro/Pomodoro Log.md",
+    "Day Planners/Day Planner-20221015.md",
+    "Faster-RCNN.md",
+    "CNN原理.md",
+    "算法原理学习01.md",
+    "DayPlan/2022-10-15.md",
+    "DayPlan.md",
+    "clock.md",
+    "ColorfulClock.md"
+  ]
+}
